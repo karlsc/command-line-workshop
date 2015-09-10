@@ -1,0 +1,17 @@
+../workspace/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-pngquant/node_modules/pngquant-bin/node_modules/bin-build/node_modules/download/node_modules/request/node_modules/hawk/images/logo.png
+../workspace/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-pngquant/node_modules/pngquant-bin/node_modules/bin-wrapper/node_modules/download/node_modules/request/node_modules/hawk/images/logo.png
+../workspace/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-pngquant/node_modules/pngquant-bin/node_modules/bin-wrapper/node_modules/bin-check/node_modules/spawn-sync/node_modules/try-thread-sleep/node_modules/thread-sleep/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/images/logo.png
+../workspace/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-jpegtran/node_modules/jpegtran-bin/node_modules/bin-build/node_modules/download/node_modules/request/node_modules/hawk/images/logo.png
+../workspace/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-jpegtran/node_modules/jpegtran-bin/node_modules/bin-wrapper/node_modules/download/node_modules/request/node_modules/hawk/images/logo.png
+../workspace/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-jpegtran/node_modules/jpegtran-bin/node_modules/bin-wrapper/node_modules/bin-check/node_modules/spawn-sync/node_modules/try-thread-sleep/node_modules/thread-sleep/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/images/logo.png
+../workspace/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-gifsicle/node_modules/gifsicle/node_modules/bin-build/node_modules/download/node_modules/request/node_modules/hawk/images/logo.png
+../workspace/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-gifsicle/node_modules/gifsicle/node_modules/bin-wrapper/node_modules/download/node_modules/request/node_modules/hawk/images/logo.png
+../workspace/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-gifsicle/node_modules/gifsicle/node_modules/bin-wrapper/node_modules/bin-check/node_modules/spawn-sync/node_modules/try-thread-sleep/node_modules/thread-sleep/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/images/logo.png
+../workspace/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-optipng/node_modules/optipng-bin/node_modules/bin-build/node_modules/download/node_modules/request/node_modules/hawk/images/logo.png
+../workspace/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-optipng/node_modules/optipng-bin/node_modules/bin-wrapper/node_modules/download/node_modules/request/node_modules/hawk/images/logo.png
+../workspace/node_modules/grunt-contrib-imagemin/node_modules/imagemin/node_modules/imagemin-optipng/node_modules/optipng-bin/node_modules/bin-wrapper/node_modules/bin-check/node_modules/spawn-sync/node_modules/try-thread-sleep/node_modules/thread-sleep/node_modules/node-pre-gyp/node_modules/request/node_modules/hawk/images/logo.png
+../workspace/node_modules/grunt-modernizr/node_modules/request/node_modules/hawk/images/logo.png
+../workspace/src/assets/images/decodemtl-logo-white.png
+../workspace/src/assets/images/decodemtl-logo-black.png
+../workspace/dist/assets/images/decodemtl-logo-white.png
+../workspace/dist/assets/images/decodemtl-logo-black.png
