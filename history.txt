@@ -1,0 +1,63 @@
+    1  git branch address-fix
+    2  git checkout address-fix
+    3  git init
+    4  git status
+    5  git push origin address-fix
+    6  git status
+    7  git add src_layout/default.html
+    8  git add src/_layout/default.html
+    9  git add src/_layouts/default.html
+   10  git status
+   11  git commit -m "Changed GriffinCamp link to La Commune"
+   12  git push origin address-fix
+   13  git checkout master
+   14  git checkout -b visual-changes
+   15  npm install -g jekyll
+   16  grunt --force build
+   17  git checkout address-fix
+   18  git status
+   19  git add src/index.html
+   20  git add src/_layouts/default.html
+   21  git commit -m "CHanger au fr"
+   22  git push origin visual-changes
+   23  git checkout address-fix
+   24  git status
+   25  grunt dev
+   26  npm install -g grunt
+   27  grunt dev
+   28  npm install
+   29  grunt dev
+   30  grunt -force  dev
+   31  sl -a
+   32  man sl
+   33  cowsay | sl -l
+   34  cowsay -n | sl -l
+   35  cowsay | history
+   36  history | cowsay
+   37  sl -l | cowsay
+   38  history | cowsay -e ##
+   39  history | cowsay -e ee
+   40  history | cowsay -e "##"
+   41  history | cowsay -e ++
+   42  whoami | cowsay
+   43  sudo apt-get install figlet
+   44  figlet
+   45  man figlet
+   46  figlet | cowsay "hello"
+   47  figlet hello | cowsay
+   48  figlet hello | cowsay -n
+   49  figlet feels good brah | cowsay -n
+   50  figlet feels good brah | cowsay -n -f sodomized-sheep
+   51  figlet feels good brah | cowsay -e 88 -n -f sodomized-sheep
+   52  figlet feels good brah | cowsay -e QQ -n -f sodomized-sheep
+   53  figlet feels good brah | cowsay -e UU -n -f sodomized-sheep
+   54  figlet feels good brah | cowsay -e uu -n -f sodomized-sheep
+   55  man figlet
+   56  man cowsay
+   57  cd ..
+   58  git clone git@github.com:karlysun/command-line-workshop.git
+   59  cd command-line-workshop
+   60  ls
+   61  git branch cmd-history
+   62  git checkout cmd-history
+   63  history > history.txt
